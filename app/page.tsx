@@ -6,7 +6,7 @@ export default function Home() {
         <p className="text-8xl font-bold">THE 14 SECONDS</p>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <p>Every letter, a heartbeat—written by Sreenivas with ♥️</p>
+        <p>Every letter, a heartbeat—written by <b>Sreenivas</b> with ♥️</p>
       </footer>
     </div>
   );
